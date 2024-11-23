@@ -3,8 +3,8 @@ This Python script is a basic port scanner designed to check the availability of
 <br>
 <div align="center">
 
-![port scanner](https://github.com/user-attachments/assets/77cb297b-399d-4829-99fc-df1227c63e49)
-  
+<img src="https://github.com/user-attachments/assets/99a8eed0-7659-4430-8c36-ffc5d8121ed8" style="width: 200px; height: 200px;">
+
 </div>
 
 <h2>Features</h2>
