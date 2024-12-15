@@ -15,9 +15,11 @@ This Python script is a basic port scanner designed to check the availability of
 
 <h2>Use</h2>
 
-`git clone https://github.com/BlackSheep47/Open-Port-Scanner.git`<br>
-`cd Open-Port-Scanner`<br>
-`python port-scanner.py`<br>
+<pre class="notranslate"><code>git clone https://github.com/BlackSheep47/Open-Port-Scanner.git</code></pre>
+<pre class="notranslate"><code>cd Open-Port-Scanner</code></pre>
+<pre class="notranslate"><code>python port-scanner.py</code></pre>
+
+
 
 
 ![2024-11-23 21_35_16-Port-Scanner - File Explorer](https://github.com/user-attachments/assets/5bc5c2d9-4f1f-4788-b7e9-35bfbb37beb1)<br>
